@@ -36,4 +36,4 @@ Tawk.install = function (Vue, options) {
     return false
   }
 }
-export default Tawk
+export default Tawk;
